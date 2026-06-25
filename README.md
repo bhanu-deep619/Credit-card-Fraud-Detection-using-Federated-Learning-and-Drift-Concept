@@ -197,7 +197,7 @@ Detected drift points are visualized across transaction streams, enabling analys
 
 ## Author
 
-**Pradyumna Reddy**
+**Gummula Bhanudeep**
 
 ---
 
