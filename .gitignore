@@ -1,0 +1,30 @@
+venv/
+.venv/
+flenv/
+river/
+
+venv - Copy/
+river - Copy/
+
+node_modules/
+
+__pycache__/
+__pycache__ - Copy/
+
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pkl
+
+*.zip
+*.rar
+*.7z
+
+data/
+datasets/
+clients/bank1/data.csv
+clients/bank2/data.csv
+clients/bank3/data.csv
+clients/bank4/data.csv
+clients/bank5/data.csv
